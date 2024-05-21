@@ -1,6 +1,4 @@
 # BLUE DEVELOPER DIRECTORY
-Here's a sample README file for your GitHub repository:
-
 ---
 Welcome to the Blue Developer Directory! This project is a web page designed using HTML and CSS to showcase a directory for developers.
 
